@@ -1,0 +1,46 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<header>
+<h1>Navigational links</h1>
+<nav>
+<ul>
+<li><a href="#Home"></a>Home</li>
+<li><a href="#Posts"></a>Posts</li>
+<li><a href="#Contact"></a>Contact</li>
+</ul>
+</nav>
+</header>
+
+<main>
+<section>
+<article>
+<h2>Facts about dogs</h2>
+<p> 
+Dogs have a sense of time.Its proven that they can differentiate between an hour and a five.If conditioned to,they can predict the future.Such as regular walk times.
+</p>
+</article>
+<aside>
+<p>
+A study was conducted on dogs being away from their owners for varying hours and the studies show that dogs who were away from their owners the longest showed the greatest amount of affection!
+
+</p>
+</aside> 
+</section> 
+<figure>
+<img src="C:\Users\HP\Downloads\dog.png">
+<figcaption>A cute dog</figcaption>
+<audio controls>
+<source src="C:\Users\HP\Downloads\dragon-studio-dog-barking-406629 (1).mp3" type="audio/mp3">
+</audio>
+<video src="C:\Users\HP\Downloads\7516705-sd_240_426_30fps.mp4" controls>
+</video>
+<embed src="C:\Users\HP\Downloads\7516705-hd_1080_1920_30fps.mp4"/>
+</main>
+<footer>
+<p>call me at +1 12345678910</p>
+</footer>
+ </body>
+</html>
